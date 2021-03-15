@@ -1,0 +1,27 @@
+.header_logo{
+    font-size: 3rem !important;
+    font-family: 'Dancing Script', cursive;
+    color: #ee7c1f !important;
+    padding: 0 20px;
+}
+.header_option{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.header_optionLineOne{
+    font-size: 10px;
+}
+.header_optionLinetwo{
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_optionBasket{
+    display: flex;
+    align-items: center;
+}
+.header_basketCount{
+    margin-left: 10px;
+    margin-right: 10px;
+}
